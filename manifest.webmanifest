@@ -1,0 +1,10 @@
+{
+  "name": "学習発表会 ポン出しプレイヤー",
+  "short_name": "音源プレイヤー",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "lang": "ja",
+  "description": "自分の音源を登録して使える学習発表会用音源プレイヤー"
+}
